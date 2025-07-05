@@ -1,6 +1,7 @@
 # 💼 Broke2Gigs – *We all broke, let's gig!*
-(Demo website for presentation)
+(Demo website for presentation 2hr rush work)
 (Backend is not implemented) (uses localstorage for now)
+(Plans to build actual website in the furture)
 
 🚀 [Live Demo](https://broke2gigs.vercel.app)
 
@@ -36,12 +37,6 @@
 We welcome student developers and open-source enthusiasts to contribute!  
 Check out the `issues` section or open a PR with your improvements.
 
----
-
-## 📬 Contact
-
-Have a feature request, bug report, or collaboration idea?  
-Reach out via [GitHub Issues](../../issues) or email us at `broke2gigs@gmail.com`.
 
 ---
 
